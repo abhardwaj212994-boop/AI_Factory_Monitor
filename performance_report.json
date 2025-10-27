@@ -1,0 +1,70 @@
+{
+    "session_info": {
+        "start_time": "2025-10-27 11:09:54",
+        "duration_seconds": 3600,
+        "total_workers": 5,
+        "total_frames_processed": 108000
+    },
+    "workers": [
+        {
+            "worker_id": "worker_0",
+            "total_time_minutes": 60.0,
+            "active_time_minutes": 52.5,
+            "idle_time_minutes": 7.5,
+            "productivity_rate": 87.5,
+            "idle_rate": 12.5,
+            "performance_score": 95.0,
+            "rating": "Excellent",
+            "effective_working_hours": 0.88
+        },
+        {
+            "worker_id": "worker_1",
+            "total_time_minutes": 60.0,
+            "active_time_minutes": 48.0,
+            "idle_time_minutes": 12.0,
+            "productivity_rate": 80.0,
+            "idle_rate": 20.0,
+            "performance_score": 88.0,
+            "rating": "Excellent",
+            "effective_working_hours": 0.8
+        },
+        {
+            "worker_id": "worker_2",
+            "total_time_minutes": 60.0,
+            "active_time_minutes": 43.5,
+            "idle_time_minutes": 16.5,
+            "productivity_rate": 72.5,
+            "idle_rate": 27.5,
+            "performance_score": 79.0,
+            "rating": "Good",
+            "effective_working_hours": 0.73
+        },
+        {
+            "worker_id": "worker_3",
+            "total_time_minutes": 60.0,
+            "active_time_minutes": 38.0,
+            "idle_time_minutes": 22.0,
+            "productivity_rate": 63.3,
+            "idle_rate": 36.7,
+            "performance_score": 68.0,
+            "rating": "Average",
+            "effective_working_hours": 0.63
+        },
+        {
+            "worker_id": "worker_4",
+            "total_time_minutes": 60.0,
+            "active_time_minutes": 51.0,
+            "idle_time_minutes": 9.0,
+            "productivity_rate": 85.0,
+            "idle_rate": 15.0,
+            "performance_score": 92.0,
+            "rating": "Excellent",
+            "effective_working_hours": 0.85
+        }
+    ],
+    "aggregate_statistics": {
+        "average_performance_score": 84.4,
+        "average_productivity_rate": 77.66,
+        "total_effective_working_hours": 3.89
+    }
+}
